@@ -1,4 +1,4 @@
-# devops_project
+# Devops_project
 🧠 AI Resume Analyzer
 An AI-powered resume analysis tool built using Python that extracts text from resumes, evaluates them, assigns a score, and recommends skills or certifications to improve your resume strength.
 
@@ -27,4 +27,8 @@ Clone the repository:
 git clone https://github.com/Pushpamkumar/devops_project.git
 cd devops_project
 pip install -r requirements.txt
+
+💡 Usage
+ Streamlit for UI:
+streamlit run app.py
 
